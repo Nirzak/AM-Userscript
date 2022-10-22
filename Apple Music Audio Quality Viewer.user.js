@@ -4,7 +4,7 @@
 // @version      2.0
 // @icon         https://music.apple.com/assets/favicon/favicon-180-f10a76334177ea08c0b3b35b0269fe16.png
 // @description  Thsi script will show in which quality an album is available in apple music
-// @author       Ex Pert (Modified by Zak)
+// @author       Credit to Original Author - Modified by Me (Zak)
 // @match        http*://music.apple.com/*
 // @grant        GM_addStyle
 // @grant        GM_addElement
